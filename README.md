@@ -1,2 +1,2 @@
-# Parte3-TrabalharEmDupla
-Extensão DevOps e GitHub
+# Extensão DevOps e GitHub
+Parte3-TrabalharEmDupla
